@@ -1,4 +1,4 @@
-## Olá, me chamo Ryan Fernandes, Desenvolvedor Back-End, Pós-Graduando de Engenharia de Sofware e Cyber Segurança
+## Olá, sou Ryan Fernandes, Desenvolvedor Back-End e Pós-Graduando em Engenharia de Software e Cybersegurança.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
